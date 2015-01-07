@@ -1,2 +1,2 @@
-require "omniauth-orcid/version"
-require 'omniauth/strategies/orcid'
+require_relative "omniauth-orcid/version"
+require_relative 'omniauth/strategies/orcid'
