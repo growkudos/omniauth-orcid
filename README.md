@@ -4,7 +4,9 @@ ORCID OAuth 2.0 Strategy for the wonderful [OmniAuth Ruby authentication framewo
 
 Provides basic support for connecting a client application to the [Open Researcher & Contributor ID registry service](http://orcid.org).
 
-Originally created for the [ORCID example client application in Rails](https://github.com/gthorisson/ORCID-example-client-app-rails), then turned into a gem.
+Originally created for the [ORCID example client application in Rails](https://github.com/gthorisson/ORCID-example-client-app-rails), then turned into a gem. 
+
+[GrowKudos](https://www.growkudos.com) is a web app where the gem is in active use. There's a free registration during which (and after which) an ORCID can be connected via oAuth.
 
 
 
